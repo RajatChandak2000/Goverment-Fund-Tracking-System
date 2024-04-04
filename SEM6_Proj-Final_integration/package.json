@@ -1,0 +1,58 @@
+{
+  "name": "bc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^2.10.8",
+    "@devexpress/dx-react-chart": "^2.7.5",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.5",
+    "@devexpress/dx-react-core": "^2.7.5",
+    "@devexpress/dx-react-grid": "^2.7.5",
+    "@devexpress/dx-react-grid-material-ui": "^2.7.5",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/pickers": "^3.3.10",
+    "@progress/kendo-react-form": "^4.5.0",
+    "@progress/kendo-react-inputs": "^4.5.0",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "materialize-css": "^1.0.0",
+    "react": "^17.0.2",
+    "react-advanced-form": "^1.7.2",
+    "react-date-picker": "^8.1.1",
+    "react-datepicker": "^3.8.0",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "solidity": "^0.0.1",
+    "truffle": "^5.3.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
